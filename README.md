@@ -32,12 +32,7 @@
 -->
 
 
-<div>
-<a href="https://github.com/FERgrelladev">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FERgrelladev&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FERgrelladev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FERgrelladev&&theme=tokyonight" alt="Fernanda Grella" /></p>
 
-
-![Snake animation](https://github.com/FERgrelladev/FERgrelladev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FERgrelladev/FERgrelladev/blob/output/github-contribution-grid-snake-dark.svg)
